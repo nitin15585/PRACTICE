@@ -1,0 +1,50 @@
+603,Xavier,the fault in our stars,288
+952,Zane,gone girl,204
+961,Ethan,divergent,144
+679,Laura,hush hush,234
+985,Laura,divergent,90
+966,Sophia,the alchemist,335
+627,Sophia,twilight,137
+249,Charlie,hush hush,332
+457,Hannah,the alchemist,242
+923,Michael,the maze runner,133
+89,Alice,life of pi,126
+687,Evelyn,gone girl,80
+157,Fiona,gone girl,222
+938,Mason,the maze runner,129
+209,Victor,1984,57
+990,Xavier,divergent,249
+582,Oscar,the alchemist,62
+712,Amelia,the hobbit,108
+803,Lucas,the maze runner,90
+539,Ethan,hush hush,431
+982,Harper,gone girl,107
+555,Amelia,1984,309
+610,Rachel,divergent,255
+503,Alice,the alchemist,415
+906,Emma,a wrinkle in time,192
+608,Uma,1984,389
+365,Charlie,the hobbit,175
+223,Noah,pride and prejudice,193
+899,Amelia,the great gatsby,103
+770,Michael,gone girl,493
+320,Emma,divergent,142
+836,Liam,the giver,235
+242,Sophia,the book thief,154
+580,Emma,the hobbit,239
+662,Amelia,1984,147
+771,Zane,the hobbit,444
+745,Fiona,the hunger games,342
+237,Amelia,twilight,164
+632,Michael,the maze runner,336
+217,Michael,the giver,278
+945,Olivia,life of pi,98
+326,Alice,the hunger games,181
+597,Ian,the book thief,347
+350,Amelia,gone girl,177
+720,Uma,gone girl,395
+666,Oscar,a wrinkle in time,323
+420,Mia,the maze runner,154
+258,Xavier,to kill a mockingbird,177
+901,Mia,1984,236
+281,Paula,gone girl,342
